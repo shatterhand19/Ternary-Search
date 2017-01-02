@@ -1,0 +1,99 @@
+public static final int SIZE = 1000000;
+public static final int MAX_RANGE = SIZE * 100;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 1000000;
+public static final int MAX_RANGE = SIZE * 10;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 1000000;
+public static final int MAX_RANGE = SIZE;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 1000000;
+public static final int MAX_RANGE = SIZE / 10;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 1000000;
+public static final int MAX_RANGE = SIZE / 100;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 100000;
+public static final int MAX_RANGE = SIZE * 100;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 100000;
+public static final int MAX_RANGE = SIZE * 10;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 100000;
+public static final int MAX_RANGE = SIZE;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 100000;
+public static final int MAX_RANGE = SIZE / 10;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 100000;
+public static final int MAX_RANGE = SIZE / 100;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 10000;
+public static final int MAX_RANGE = SIZE * 100;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 10000;
+public static final int MAX_RANGE = SIZE * 10;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 10000;
+public static final int MAX_RANGE = SIZE;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 10000;
+public static final int MAX_RANGE = SIZE / 10;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 10000;
+public static final int MAX_RANGE = SIZE / 100;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 1000;
+public static final int MAX_RANGE = SIZE * 100;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 1000;
+public static final int MAX_RANGE = SIZE * 10;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 1000;
+public static final int MAX_RANGE = SIZE;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 1000;
+public static final int MAX_RANGE = SIZE / 10;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
+
+public static final int SIZE = 1000;
+public static final int MAX_RANGE = SIZE / 100;
+public static final int RUNS = SIZE;
+public static final int TESTS = 1000;
