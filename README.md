@@ -1,1 +1,3 @@
-# Ternary-Search
+This projects implements ternary search that uses approximation of the position of the key in the array. Consequently, the running time of this algorithm is compared to the one of the classic binary search (which is also optimized to approximate the half of the array where the key has a higher chance to be). These times are then compared in the spreadsheets in the folder Statistics. 
+As it can be observed, Ternary Serach is substatially faster than binary on my computer (Intel Core i7-6500U, NVIDIA GeForce 940M and 8 GB DDR3 L Memory). On different computers this ratio may vary (as tested on other computers - more than 900 times faster), but the tendecy is that Ternary is always faster than binary. 
+Later I would implement this code with the default binary search of the standard Java package (which to my knowledge is no faster than the binary I have written).
